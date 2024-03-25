@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Image, Text } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
 
 const RecipeCard = ({ recipe }) => {
   return (

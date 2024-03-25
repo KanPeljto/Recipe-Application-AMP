@@ -17,4 +17,11 @@ export const recipes = [
       image: require('../assets/vegetable-salad.jpeg'),
       calories: 100,
     },
+
+    {
+      id: 4,
+      title: 'Pizza',
+      image: require('../assets/pizza.jpeg'),
+      calories: 800,
+    }
   ];
